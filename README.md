@@ -50,9 +50,9 @@ HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 2. Will implement React in the front end
 
 
-## [WireFrame]  https://github.com/MaryJosephA/product-client/tree/master/public/wireframe.png
+## [WireFrame]  https://github.com/MaryJosephA/student-client/tree/master/public/wireframe.png
 
-## [CourseTable]   https://github.com/MaryJosephA/product-rails-api/tree/master/public/ERD-Courses.png
+## [CourseTable]   https://github.com/MaryJosephA/student-rails-api/tree/master/public/ERD-Courses.png
 
 ## [License](LICENSE)
 
