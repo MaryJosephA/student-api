@@ -1,23 +1,23 @@
 Rails[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Pantry List
+# Freedom Institute
 Below is the url where the application is hosted
-[product-client Repo](https://github.com/MaryJosephA/product-client)
+[student-client Repo](https://github.com/MaryJosephA/student-client)
 
-[product-client Deployed](https://maryjosepha.github.io/product-client/)
+[student-client Deployed](https://maryjosepha.github.io/student-client/)
 
-[product-rails-api Repo](https://github.com/MaryJosephA/product-rails-api)
+[student-rails-api Repo](https://github.com/MaryJosephA/student-api)
 
-[product-rails-api Deployed](https://enigmatic-plains-70569.herokuapp.com/)
+[student-rails-api Deployed](https://enigmatic-plains-70569.herokuapp.com/)
 
 ## Technologies
 HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 
 ## project planning
-1.  Created wirframe and user story
-2. Downloaded the Browser Template
+1. Created wirframe and user story
+2. Downloaded the Rail-api-template
 3. Download this template.
-4. Replaced all the instance of browser template to product-client
+4. Replaced all the instance of rails-api to Student-rails-api
 5. Initialized the project in the git using git init
 6. Added all the filed using git add --all
 7. committed all the files using git commit origin master
@@ -46,12 +46,13 @@ HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 5. User should be able to get feedback after each action
 
 ## Unsolved problems
-1. Will add Join table to see which user has products
-2. Will migrate to many to many relationship
+1. Will add Join table to see which student has how many courses
+2. Will implement React in the front end
 
-## [WireFrame] WireFrame https://github.com/MaryJosephA/product-client/tree/master/public/wireframe.JPG
 
-## [Student Table] Product Table  https://github.com/MaryJosephA/product-rails-api/tree/master/public/table.JPG
+## [WireFrame]  https://github.com/MaryJosephA/product-client/tree/master/public/wireframe.png
+
+## [CourseTable]   https://github.com/MaryJosephA/product-rails-api/tree/master/public/ERD-Courses.png
 
 ## [License](LICENSE)
 
