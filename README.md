@@ -49,14 +49,10 @@ HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 1. Will add Join table to see which student has how many courses
 2. Will implement React in the front end
 
-<<<<<<< HEAD
-## [WireFrame] WireFrame https://github.com/MaryJosephA/student-client/tree/master/public/wireframe.JPG
 
-## [Student Table] Product Table  https://github.com/MaryJosephA/student-rails-api/tree/master/public/table.JPG
-=======
 
 [WireFrame](https://github.com/MaryJosephA/student-client/tree/master/public/Wireframe.PNG)
->>>>>>> student-api
+
 
 [CourseTable](https://github.com/MaryJosephA/student-rails-api/tree/master/public/ERD-Courses.png)
 
