@@ -49,9 +49,9 @@ HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 1. Will add Join table to see which user has products
 2. Will migrate to many to many relationship
 
-## [WireFrame] WireFrame https://github.com/MaryJosephA/product-client/tree/master/public/wireframe.JPG
+## [WireFrame] WireFrame https://github.com/MaryJosephA/student-client/tree/master/public/wireframe.JPG
 
-## [Student Table] Product Table  https://github.com/MaryJosephA/product-rails-api/tree/master/public/table.JPG
+## [Student Table] Product Table  https://github.com/MaryJosephA/student-rails-api/tree/master/public/table.JPG
 
 ## [License](LICENSE)
 
