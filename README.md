@@ -51,10 +51,10 @@ HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 
 
 
-[WireFrame](https://github.com/MaryJosephA/student-client/tree/master/public/Wireframe.PNG)
+[WireFrame](https://github.com/MaryJosephA/student-api/tree/master/public/Wireframe.PNG)
 
 
-[CourseTable](https://github.com/MaryJosephA/student-rails-api/tree/master/public/ERD-Courses.png)
+[CourseTable](https://github.com/MaryJosephA/student-api/tree/master/public/ERD-Courses.png)
 
 [License](LICENSE)
 
