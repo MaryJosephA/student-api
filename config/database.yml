@@ -1,4 +1,4 @@
-<% project_name = 'student-rails-api' %>
+<% project_name = 'student-api' %>
 
 default: &default
   adapter: postgresql
