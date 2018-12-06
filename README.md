@@ -6,34 +6,36 @@ Below is the url where the application is hosted
 
 [student-client Deployed](https://maryjosepha.github.io/student-client/)
 
-[student-rails-api Repo](https://github.com/MaryJosephA/student-api)
+[student-api Repo](https://github.com/MaryJosephA/student-api)
 
-[student-rails-api Deployed](https://enigmatic-plains-70569.herokuapp.com/)
+[student-api Deployed](https://protected-earth-95142.herokuapp.com/)
 
 ## Technologies
 HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 
 ## project planning
-1. Created wirframe and user story
-2. Downloaded the Rail-api-template
-3. Download this template.
-4. Replaced all the instance of rails-api to Student-rails-api
+1.  Created wirframe and user story
+2. Downloaded the rails-api-template
+3. Renamed the app module in config/application.rb to RailsApiTemplate
+4. Renamed the project database in config/database.yml to rails-api-template
 5. Initialized the project in the git using git init
 6. Added all the filed using git add --all
 7. committed all the files using git commit origin master
-8. Created a new repository in git hub then ran npm Install
+8. Created a new repository in git hub then ran bundle Install
 9. created branches in the git
-10.scaffold the resources which created Model View and controller  and the
-  database schema automatically
-11.Then changed the param to current user and run db migrate
-13.Curl Script the resources
-14.  Hosted the site in the Heroku
+10.created a .env with keys secret_key_base for development and test
+10.Puodocoded the api client like how to link the client and backend
+11.created Sign in, Sign Out, changepassword, create,show update and delete form
+13.using web api made the form sign in, sign out, change password, create,
+   update, show and delete to talk with the api and bring the data to the browser
+14.Consume the web api to create show update and delete the resources.
+15.  Hosted the site in the Github
 
 
 ## Challenges faced
 
-1.  Struggled with connecting the api client and backend but overcame by reading
-    documetation.
+1.  Since did not add editable to serializer had difficulty in adding the button to my show CourseTable
+    went back to the code and added it.
 2.  Had difficulty in displaying the data but managed to
 3.  used google chrome to debug the issue
 
@@ -46,7 +48,7 @@ HTML, CSS, BOOTSTARP JAVASCRIPT, WEB API RESTFUL SERVICE, RUBY ON RAILS
 5. User should be able to get feedback after each action
 
 ## Unsolved problems
-1. Will add Join table to see which student has how many courses
+1. Will add Join table to see which student has how many courses and integrate with invoice app.
 2. Will implement React in the front end
 
 
