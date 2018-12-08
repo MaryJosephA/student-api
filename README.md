@@ -1,5 +1,9 @@
 Rails[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
+## Description
+This application belongs to Freedom Computer Institute to keep track of the students
+who are registered for the computer courses. How the app works is that it basically allows users to Create, update, Read and Delete the resourses. When the user sign up then it allows them to sign in then if they click on Get Courses it shows all the courses and when they click on create it allows to enter coursename and coursenumber.  Similarly it allows user to update the course by entering the user id and when we click on delete button it deletes the course.
+
 # Freedom Institute
 Below is the url where the application is hosted
 [student-client Repo](https://github.com/MaryJosephA/student-client)
